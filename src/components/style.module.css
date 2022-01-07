@@ -1,0 +1,21 @@
+.caldiv {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.bt {
+  padding: 10px;
+  background: rgb(180, 235, 180);
+  height: 40px;
+  border: none;
+  width: 100px;
+  margin-top: 10px;
+}
+
+.maindiv {
+  width: 400px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
